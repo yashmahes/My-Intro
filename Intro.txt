@@ -1,0 +1,55 @@
+I'm a professional full-stack developer. I am a senior Django / Python / JavaScript / Flask / Web Developer with 12 years developing software for the web, desktops and all.
+
+I develop web applications and have a strong background in cloud-based solutions, API development, distributed computing, and prototyping utilizing Python and the Django Framework. 
+
+I excel at helping clients bring their ideas to life, and when you hire me, I'll do the same for you!
+
+Some of my completed work includes clients, Samsung, HTC, SimplyBiz, and Nellai.
+
+I have, experience building REST API using Django Rest framework.
+I have knowledge and understanding of object-oriented programming principles.
+I have extensive experience building web applications using Django Framework.
+I have Experience working with AWS services, CI/CD, Docker, Heroku, Cloud Services, GIT, JIRA, Confluence, etc.
+I have Strong knowledge of Python programming language, Django framework, MongoDB, SQL, APIs, etc.
+I have good Skills in designing relational and non-relational databases.
+
+
+My Datafornix project description
+
+I have built many amazing applications. One of the amazing applications I have built is a Datafornix application. 
+The project is a B2B application whose services can be used by Banks and Financial Organisations for storing their customer's documents.
+In this Datafornix project, I have created several restful APIs for identity verification like Video liveliness check API, 
+Selfie check API, GeoAddressCheck API, AssetProcess API, Image comparison API, etc.
+
+In this Datafornix project, I have used Google Vision API to extract text from the images. 
+I have also used RSA and AES encryption and decryption process to make the API secure.
+I have created APIs for the mobile end so that the user can upload various assets like ID card, Driving license, Passport, Gas Bill, etc.
+
+The link to the project is
+http://qat.datafornix.com/admin/login
+username-  admin@datafornix.com
+password-  admin123
+
+I have also uploaded some of my sample projects at the below links
+https://murmuring-temple-35107.herokuapp.com/myapp/
+https://github.com/yashmahes/Toptal-User-and-Calorie-Management
+https://github.com/yashmahes/NellaiConnectNewsApp
+https://github.com/yashmahes/Artwork-Django-project-with-CRUD-functionality
+https://github.com/yashmahes/Vidly-Video-Rental-Store-Django-
+https://github.com/yashmahes/Autism-Prediction
+https://github.com/yashmahes/Machine-Learning-Website-using-Flask
+https://github.com/yashmahes/Pyshop
+Django rest framework project
+https://drive.google.com/open?id=1Zl9vo7ilWm7r5sM3KuL1mGuYYSFlyhL9
+
+https://drive.google.com/file/d/1PE-18cSk4GgS_T_pug12QDpDDISYxotQ/view
+
+Video of a website project
+https://drive.google.com/file/d/10192NPjix5YCZlMOx59mUNUuyI8X09Nk/view
+ 
+Website project in ASP.Net MVC and Visual Studio.
+https://drive.google.com/file/d/1QXrxX2gOD2_lDgWrSRbCQtCtnxzOBUGJ/view  
+
+
+https://drive.google.com/file/d/1qq_0PhBvHrgXyLGbFpIjt2ZEaNjC8a-7/view
+https://drive.google.com/file/d/14lJMSGVU_QiqnFLlfVaMOYavNk6raQ3U/view
